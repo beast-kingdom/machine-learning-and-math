@@ -2,15 +2,18 @@
 I created this roadmap to organize the learning of machine learning and related math.
 
 # In progress
-- [X] 1. https://www.khanacademy.org/math/statistics-probability
-
+- [X] 1. Fundamental  
+    statistics and probability: https://www.khanacademy.org/math/statistics-probability
+    
 - [X] 2. An Introduction to Statistical Learning
-- video: https://www.edx.org/course/statistical-learning
-- book: https://www.statlearning.com/ (finish the exercises in python, see below for other's solution as reference.)
-- code: https://github.com/tdpetrou/Machine-Learning-Books-With-Python
-https://github.com/JWarmenhoven/ISLR-python
-https://botlnec.github.io/islp/
-https://github.com/qx0731/Sharing_ISL_python
+    - video: https://www.edx.org/course/statistical-learning
+    - book: https://www.statlearning.com/  
+      **Finish exercises in python, see below for other's solution as reference.**
+    - code reference:   
+      https://github.com/tdpetrou/Machine-Learning-Books-With-Python  
+      https://github.com/JWarmenhoven/ISLR-python  
+      https://botlnec.github.io/islp/  
+      https://github.com/qx0731/Sharing_ISL_python  
 
 ...
 
@@ -27,36 +30,23 @@ https://github.com/qx0731/Sharing_ISL_python
 
 
 # local install
-https://docs.anaconda.com/anaconda-notebooks/
-
-https://docs.jupyter.org/en/latest/install.html
-
-chrome://gpu to check gpu support
+https://docs.anaconda.com/anaconda-notebooks/  
+https://docs.jupyter.org/en/latest/install.html  
+chrome://gpu to check gpu support  
 
 
 
 # resources
-https://news.ycombinator.com/item?id=32480009
-
-https://news.ycombinator.com/item?id=20765553
-
-https://i.am.ai/roadmap/#disclaimer
-
-https://www.franzoni.eu/machine-learning-a-sound-primer/
-
-https://pytorch.org/tutorials/
-
-https://www.kaggle.com/learn/python
-
-https://www.deeplearningbook.org/
-
-https://xcelab.net/rm/statistical-rethinking/
-
+https://news.ycombinator.com/item?id=32480009  
+https://news.ycombinator.com/item?id=20765553  
+https://i.am.ai/roadmap/#disclaimer  
+https://www.franzoni.eu/machine-learning-a-sound-primer/  
+https://pytorch.org/tutorials/  
+https://www.kaggle.com/learn/python  
+https://www.deeplearningbook.org/  
+https://xcelab.net/rm/statistical-rethinking/  
 MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013
-https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
-
-https://www.coursera.org/learn/data-analysis-with-python
-
-https://wesmckinney.com/book/
-
-https://www.khanacademy.org/computing/ap-computer-science-principles
+https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8  
+https://www.coursera.org/learn/data-analysis-with-python  
+https://wesmckinney.com/book/  
+https://www.khanacademy.org/computing/ap-computer-science-principles  
