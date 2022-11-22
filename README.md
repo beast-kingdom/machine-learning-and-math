@@ -8,7 +8,8 @@ I created this roadmap to organize the learning of machine learning and related 
 - [X] 2. An Introduction to Statistical Learning
     - video: https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
     - book: https://www.statlearning.com/  
-      **Finish exercises in python, see below for other's solution as reference.**
+      1. **Finish exercises in python, see below for other's solution as reference.**
+      2. **Write down concepts in Concepts.md**
     - code reference:   
       https://github.com/tdpetrou/Machine-Learning-Books-With-Python  
       https://github.com/JWarmenhoven/ISLR-python  
