@@ -6,7 +6,7 @@ I created this roadmap to organize the learning of machine learning and related 
     statistics and probability: https://www.khanacademy.org/math/statistics-probability
     
 - [X] 2. An Introduction to Statistical Learning
-    - video: https://www.edx.org/course/statistical-learning
+    - video: https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
     - book: https://www.statlearning.com/  
       **Finish exercises in python, see below for other's solution as reference.**
     - code reference:   
