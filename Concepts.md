@@ -4,9 +4,13 @@ X: input/variable/independent variable/feature
 
 Y: output/response
 
-estimate
+predition
 
 inference
+
+reducible error
+
+irreducible error
 
 parametric
 
