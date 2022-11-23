@@ -41,7 +41,11 @@ https://docs.anaconda.com/anaconda-notebooks/
 https://docs.jupyter.org/en/latest/install.html  
 chrome://gpu to check gpu support  
 
+# git
+> git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git  
+> git push origin main  
 
+https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74  
 
 # resources
 https://news.ycombinator.com/item?id=32480009  
