@@ -19,8 +19,11 @@ I created this roadmap to organize the learning of machine learning and related 
 - [X] 2.1 Jupyter and Panda
   - start jupyter by: 
     > jupyter lab
-  - Panda is R's equivalent in Python: https://pandas.pydata.org/docs/getting_started/overview.html  
-    1. **know how to load, filter, visualize and analyze data**
+  - Panda is R's equivalent in Python  
+    1. **know how to load, filter, visualize and analyze data**  
+        https://pandas.pydata.org/docs/getting_started/overview.html  
+        https://matplotlib.org/3.5.0/gallery/pyplots/boxplot_demo_pyplot.html  
+        
   
 ...
 
