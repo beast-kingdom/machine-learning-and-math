@@ -15,7 +15,13 @@ I created this roadmap to organize the learning of machine learning and related 
       https://github.com/JWarmenhoven/ISLR-python  
       https://botlnec.github.io/islp/  
       https://github.com/qx0731/Sharing_ISL_python  
-
+      
+- [X] 2.1 Jupyter and Panda
+  - start jupyter by: 
+    > jupyter lab
+  - Panda is R's equivalent in Python: https://pandas.pydata.org/docs/getting_started/overview.html  
+    1. **know how to load, filter, visualize and analyze data**
+  
 ...
 
 - [ ] 3. fast.ai I
