@@ -3,7 +3,7 @@ I created this roadmap to organize the learning of machine learning and related 
 
 # In progress
 - [X] 1. Fundamental  
-    statistics and probability: https://www.khanacademy.org/math/statistics-probability
+    statistics and probability: https://www.khanacademy.org/math/statistics-probability  
     basic of computer science: https://www.khanacademy.org/computing/ap-computer-science-principles  
     
 - [X] 2. An Introduction to Statistical Learning
